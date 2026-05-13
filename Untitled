@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <!-- Basic -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0A0A0A" />
+
+    <!-- Title -->
+    <title>U18 Dev | Under18 Developers</title>
+
+    <!-- SEO -->
+    <meta
+      name="description"
+      content="U18 Dev（Under18 Developers）は、18歳以下の開発者・技術者の挑戦機会を創り出す技術組織です。学び、作り、発信し、挑戦できる場所を提供します。"
+    />
+    <meta
+      name="keywords"
+      content="U18 Dev,Under18 Developers,学生エンジニア,学生開発者,プログラミング,技術コミュニティ,LT会,OSS,ハッカソン,若手開発者"
+    />
+    <meta name="author" content="U18 Dev" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://u18.dev/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="U18 Dev" />
+    <meta property="og:title" content="U18 Dev | Under18 Developers" />
+    <meta
+      property="og:description"
+      content="18歳以下の開発者・技術者が、もっと挑戦できる場所へ。"
+    />
+    <meta property="og:url" content="https://u18.dev/" />
+    <meta property="og:image" content="https://u18.dev/ogp.png" />
+    <meta property="og:locale" content="ja_JP" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="U18 Dev | Under18 Developers" />
+    <meta
+      name="twitter:description"
+      content="18歳以下の開発者・技術者が、もっと挑戦できる場所へ。"
+    />
+    <meta name="twitter:image" content="https://u18.dev/ogp.png" />
+    <meta name="twitter:site" content="@under18dev" />
+    <meta name="twitter:creator" content="@under18dev" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://api.fontshare.com/v2/css?f[]=geist-sans@400,500,600,700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "U18 Dev",
+        "alternateName": "Under18 Developers",
+        "url": "https://u18.dev/",
+        "logo": "https://u18.dev/logo.png",
+        "sameAs": [
+          "https://github.com/under18dev",
+          "https://x.com/under18dev",
+          "https://www.youtube.com/channel/UCdFl5aaezIAVW38NoyrA9qA",
+          "https://under18dev.connpass.com"
+        ],
+        "description": "18歳以下の開発者・技術者の挑戦機会を創り出す技術組織。",
+        "foundingLocation": {
+          "@type": "Place",
+          "name": "Japan"
+        }
+      }
+    </script>
+  </head>
+
+  <body class="bg-[#0A0A0A] text-[#FAFAFA] antialiased">
+    <div id="root"></div>
+
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
