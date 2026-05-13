@@ -1,0 +1,10 @@
+{
+  "name": "U18 Dev — Under18 Developers",
+  "short_name": "U18 Dev",
+  "description": "18歳以下の開発者・技術者の挑戦機会を創り出す技術組織。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "lang": "ja"
+}

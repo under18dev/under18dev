@@ -1,0 +1,5 @@
+# https://u18.dev/
+User-agent: *
+Allow: /
+
+Sitemap: https://u18.dev/sitemap.xml
