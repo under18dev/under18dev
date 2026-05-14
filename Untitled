@@ -22,7 +22,7 @@
     <meta name="robots" content="index, follow" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://u18.dev/" />
+    <link rel="canonical" href="https://under18.dev/" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
@@ -32,8 +32,8 @@
       property="og:description"
       content="18歳以下の開発者・技術者が、もっと挑戦できる場所へ。"
     />
-    <meta property="og:url" content="https://u18.dev/" />
-    <meta property="og:image" content="https://u18.dev/ogp.png" />
+    <meta property="og:url" content="https://under18.dev/" />
+    <meta property="og:image" content="https://under18.dev/ogp.png" />
     <meta property="og:locale" content="ja_JP" />
 
     <!-- Twitter Card -->
@@ -43,7 +43,7 @@
       name="twitter:description"
       content="18歳以下の開発者・技術者が、もっと挑戦できる場所へ。"
     />
-    <meta name="twitter:image" content="https://u18.dev/ogp.png" />
+    <meta name="twitter:image" content="https://under18.dev/ogp.png" />
     <meta name="twitter:site" content="@under18dev" />
     <meta name="twitter:creator" content="@under18dev" />
 
@@ -72,8 +72,8 @@
         "@type": "Organization",
         "name": "U18 Dev",
         "alternateName": "Under18 Developers",
-        "url": "https://u18.dev/",
-        "logo": "https://u18.dev/logo.png",
+        "url": "https://under18.dev/",
+        "logo": "https://under18.dev/logo.png",
         "sameAs": [
           "https://github.com/under18dev",
           "https://x.com/under18dev",

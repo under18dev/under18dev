@@ -1,5 +1,5 @@
-# https://u18.dev/
+# https://under18.dev/
 User-agent: *
 Allow: /
 
-Sitemap: https://u18.dev/sitemap.xml
+Sitemap: https://under18.dev/sitemap.xml
