@@ -1,0 +1,33 @@
+# U18 Dev (Under18 Developers)
+
+このファイルは、AIが `https://under18.dev/` と U18 Dev プロジェクトを理解しやすくするための概要です。
+
+## 概要
+
+U18 Dev は、18歳以下の開発者が学び・作り・発信し・挑戦できる機会を増やすことを目的とした技術コミュニティです。
+
+## ミッション
+
+- 技術に年齢制限はない、という前提で活動する
+- 若い開発者の挑戦機会の偏りを減らす
+- 最初の一歩を踏み出しやすい場をつくる
+
+## 主な活動
+
+- LT会（学生同士の技術発表）
+- YouTubeでの技術情報・イベント・開発コンテンツ発信
+- Open Source（OSS）活動・制作物共有
+- 技術イベントやハッカソンの企画・準備
+
+## 公式リンク
+
+- Website: https://under18.dev/
+- GitHub: https://github.com/under18dev
+- YouTube: https://www.youtube.com/channel/UCdFl5aaezIAVW38NoyrA9qA
+- X: https://x.com/under18dev
+- Connpass: https://under18dev.connpass.com
+- Contact: https://forms.gle/BGeqHNHgfaSJznnA7
+
+## 補足
+
+- このファイルは拡張子が `.txt` ですが、AI可読性のため Markdown 形式で記述しています。

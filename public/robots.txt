@@ -3,3 +3,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://under18.dev/sitemap.xml
+LLM: https://under18.dev/llms.txt
