@@ -1,0 +1,32 @@
+# under18dev
+
+Official website repository for U18 Dev (Under18 Developers), a technology community focused on supporting developers under 18.
+
+## Project
+- Name: under18dev
+- Type: React + TypeScript + Vite single-page website
+- Primary language: TypeScript (TSX)
+
+## Stack
+- React 19
+- React Router 7
+- Tailwind CSS 4
+- Framer Motion
+- Vite 8
+
+## Purpose
+The site communicates U18 Dev's mission, activities, and vision with a modern, professional, developer-focused design.
+
+## Key Files
+- `src/App.tsx`: App shell, route setup, opening sequence transition
+- `src/pages/HomePage.tsx`: Main landing page sections (Hero, About, Activities, Vision, Footer)
+- `src/components/OpeningSequence.tsx`: Intro animation sequence
+- `src/index.css`: Global styles and design tokens
+- `design.md`: Design direction and brand/system guidelines
+
+## Development
+- Install dependencies: `npm ci`
+- Start dev server: `npm run dev`
+- Lint: `npm run lint`
+- Build: `npm run build`
+- Preview build: `npm run preview`
