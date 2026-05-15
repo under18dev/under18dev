@@ -28,6 +28,3 @@ U18 Dev は、18歳以下の開発者が学び・作り・発信し・挑戦で�
 - Connpass: https://under18dev.connpass.com
 - Contact: https://forms.gle/BGeqHNHgfaSJznnA7
 
-## 補足
-
-- このファイルは拡張子が `.txt` ですが、AI可読性のため Markdown 形式で記述しています。
